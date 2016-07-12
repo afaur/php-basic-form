@@ -9,4 +9,3 @@ $PKG_PATH = "{$SRC_DIR}/../vendor";
 // Load all of the composer installed php packages.
 require "{$PKG_PATH}/autoload.php";
 
-?>

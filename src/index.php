@@ -20,4 +20,3 @@ echo "\t" . $builder->submit() . "\n";
 // Render closing form tag.
 echo $builder->close() . "\n";
 
-?>

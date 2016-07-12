@@ -1,0 +1,13 @@
+{
+    "name": "afaur/php-basic-form",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Adam Faur",
+            "email": "adam.faur@gmail.com"
+        }
+    ],
+    "require": {
+        "adamwathan/form": "0.8.*"
+    }
+}
